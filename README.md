@@ -1,5 +1,3 @@
-## Hi! 
-
 Olá!
 
 Eu sou a Jadna Silva apaixonada por tecnologia inovação e código! Atualmente trabalho como desenvolvedora Jr no LuizaLabs
