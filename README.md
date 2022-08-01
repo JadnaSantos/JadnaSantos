@@ -1,6 +1,9 @@
-Olá!
+#### Hi there 🖐🏾, Eu sou Jadna Silva !
 
-Eu sou a Jadna Silva apaixonada por tecnologia inovação e código! Atualmente trabalho como desenvolvedora Jr no LuizaLabs
+- 💼 Atualmente eu trabalho na Luizalabs/MagaLu como desenvolvedora Front End Junior;
+- 📝 Estou finalizando a minha gradução em Análise e Desenvolvimento de Sistemas na FAM;
+- 🇧🇷  Eu nasci e moro em São Paulo/Brasil
+- 🚀 Atualmente tenho direcionado os meus estudos no desenvolvimento Front-End 
 
 Linguagem e Ferramentas
 
