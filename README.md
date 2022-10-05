@@ -5,7 +5,7 @@
 - 🇧🇷  Eu nasci e moro em São Paulo/Brasil
 - 🚀 Atualmente tenho direcionado os meus estudos no desenvolvimento Front-End e principalmente nos Algoritmos e Estrutura de dados 
 
-Linguagem e Ferramentas
+Linguagem e Ferramentas: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
