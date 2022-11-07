@@ -4,7 +4,7 @@
 
 - 📝 Estou finalizando a minha gradução em Análise e Desenvolvimento de Sistemas na FAM;
 - 🇧🇷  Eu nasci e moro em São Paulo/Brasil
-- 🚀 Atualmente tenho direcionado os meus estudos no desenvolvimento Front-End e principalmente nos Algoritmos e Estrutura de dados 
+- 🚀 Atualmente tenho direcionado os meus estudos no desenvolvimento Front-End e principalmente nos Algoritmos e Estrutura de dados.
 
 Linguagem e Ferramentas: 
 
