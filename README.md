@@ -56,6 +56,14 @@ Linguagem e Ferramentas:
 🤩 Alguns projetos interessantes que desenvolvi nos últimos meses:
 
 <details open>
+  <summary><h3>Full Stack </h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [Sistema de Pedidos 👩🏾‍🍳](https://github.com/JadnaSantos/sistema-de-pedidos) | Node.js + Express + Prisma + PostgresSql + Docker + Next.JS + SASS
+</details> 
+
+<details open>
   <summary><h3>React </h3></summary>
   
   | Nome do Projeto | Linguagens |
