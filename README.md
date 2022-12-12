@@ -60,8 +60,8 @@ Linguagem e Ferramentas:
   
   | Nome do Projeto | Linguagens |
   |------|-------|
-  | [Local-Maps 🌎](https://github.com/JadnaSantos/sistema-local-maps) | Node.js + Express + Prisma + PostgresSql + Docker + Reactjs
-  | [Sistema de Pedidos 👩🏾‍🍳](https://github.com/JadnaSantos/sistema-de-pedidos) | Node.js + Express + Prisma + PostgresSql + Docker + Next.JS + SASS
+  | [Local-Maps 🌎](https://github.com/JadnaSantos/sistema-local-maps) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Reactjs +Styled-Components
+  | [Sistema de Pedidos 👩🏾‍🍳](https://github.com/JadnaSantos/sistema-de-pedidos) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Next.JS + SASS
  
 </details> 
 
