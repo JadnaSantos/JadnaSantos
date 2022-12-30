@@ -1,12 +1,25 @@
-## Hi there 🖐🏾, Eu sou Jadna Silva !
+## Hi there 🖐🏾!
+
+Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
+
+- ✨ Estou sempre aprendendo mais sobre ReactJs, React Native e NodeJs.
+- ☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos).
+- 📚 Tenho estudado desenvolvimento Front-End e principalmente Algoritmos e Estrutura de Dados
 
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jadna-jesus/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+   <a href="https://www.instagram.com/jadn4/?hl=pt">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
-- 📝 Estou finalizando a minha gradução em Análise e Desenvolvimento de Sistemas na FAM;
-- 🇧🇷  Eu nasci e moro em São Paulo/Brasil
-- 🚀 Atualmente tenho direcionado os meus estudos no desenvolvimento Front-End e principalmente nos Algoritmos e Estrutura de dados.
 
-Linguagem e Ferramentas: 
+## Linguagem e Ferramentas: 
+
 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -49,6 +62,7 @@ Linguagem e Ferramentas:
     <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" height="40"/>
   </a>
 </p>
+
 
 
 ## Portfólio
