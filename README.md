@@ -17,51 +17,6 @@ Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
   </a>
 </div>
 
-## Linguagem e Ferramentas: 
-
-
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg" alt="NodeJS" width="40" height="40" />
-  </a>
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>   
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  <a href="https://lesscss.org/usage/" target="_blank" rel="noreferrer"> 
-    <img src="https://i1.wp.com/www.casamidia.com.br/wp-content/uploads/2016/03/less-logo.png?ssl=1" alt="less" width="40" height="40"/> 
-  </a>
-  <a href="https://styled-components.com" target="_blank" rel="noreferrer"> 
-    <img src="https://images.opencollective.com/styled-components/fab37df/logo.png" alt="Styled-Components" width="40" height="40"/> 
-  </a>     
-  <a href="https://typeorm.io/#/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/20165699" alt="typeorm" width="40" height="40"/> 
-  </a>
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" height="40"/>
-  </a>
-</p>
-
 
 
 ## Portfólio
