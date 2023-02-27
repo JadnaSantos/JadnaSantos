@@ -28,9 +28,9 @@ Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
   
   | Nome do Projeto | Linguagens |
   |------|-------|
-  | [Local-Maps 🌎](https://github.com/JadnaSantos/sistema-local-maps) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Reactjs +Styled-Components
+  | [Local-Maps 🌎](https://github.com/JadnaSantos/sistema-local-maps) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Reactjs +Styled-Components + Jest
   | [Sistema de Pedidos 👩🏾‍🍳](https://github.com/JadnaSantos/sistema-de-pedidos) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Next.JS + SASS
-  | [Car Rent 🚗](https://github.com/JadnaSantos/car-rent) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Reactjs +Styled-Components
+  | [Car Rent 🚗](https://github.com/JadnaSantos/car-rent) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Reactjs +Styled-Components + Jest
  
 </details> 
 
