@@ -2,7 +2,7 @@
 
 Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
 
-- ✨ Estou sempre aprendendo mais sobre ReactJs, React Native e NodeJs;
+- ✨ Estou sempre aprendendo mais sobre JavaScript, ReactJs, React Native e NodeJs;
 - 🎮 Adoro games (mas sou muito ruim em todos);
 - 📚 Tenho estudado desenvolvimento Front-End e principalmente Algoritmos e Estrutura de Dados.
 
