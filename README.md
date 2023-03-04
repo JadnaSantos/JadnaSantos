@@ -60,6 +60,7 @@ Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
   | [Testing🧪](https://github.com/JadnaSantos/javascript-testing) | Node + Stubs + Sinon + Spies
   | [Api-vendas 🛒](https://github.com/JadnaSantos/api-vendas) | Node + TyORM + Express
   | [Notifications-Service 💌](https://github.com/JadnaSantos/notifications-service) | Node + NestJs + Jest
+  | [NG-Cash 💸](https://github.com/JadnaSantos/ng-cash) | Node + Express + Prisma + Typescript + Jest 
   
 </details>  
 
