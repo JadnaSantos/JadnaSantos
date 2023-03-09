@@ -103,6 +103,8 @@ Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
   | Nome do Projeto | Linguagens |
   |------|-------|
   | [React-Hooks 📕](https://github.com/JadnaSantos/reactHooks) | React + React Hooks
+  | [Git 📫] (https://github.com/JadnaSantos/gitEssencial) | GIT 
+  
   
 </details>  
 
