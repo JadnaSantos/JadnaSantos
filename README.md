@@ -45,7 +45,6 @@ Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
   | [GitHub-Blog 👨🏾‍💻](https://github.com/JadnaSantos/modulo3-githublog) | React + Typescript + Styled-Components
   | [Todo-List ✅](https://github.com/JadnaSantos/todoList) | React + Typescript + Styled-Components
   | [Time ⏲](https://github.com/JadnaSantos/timeIgnite) | React + Typescript + Styled-Components
-  | [React-Hooks 📕](https://github.com/JadnaSantos/reactHooks) | React + React Hooks
   | [Ignite-Feed 🎟](https://github.com/JadnaSantos/igniteFeed) | React + Typescript + Styled-Components
   
 </details>  
@@ -95,6 +94,15 @@ Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
   |------|-------|
   | [BootcampFreeCodeCamp 🥇](https://github.com/JadnaSantos/BootCampFreeCodeCamp) | HTML + CSS
   | [JavaScript Algorithms and Data Structures 🎲](https://github.com/JadnaSantos/JavaScript-Algorithms-and-Data-Structures) | HTML + CSS + JavaScript
+  
+</details>  
+
+<details open>
+  <summary><h3>Just for Study</h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [React-Hooks 📕](https://github.com/JadnaSantos/reactHooks) | React + React Hooks
   
 </details>  
 
