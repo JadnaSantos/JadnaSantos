@@ -30,7 +30,6 @@ Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
   |------|-------|
   | [Local-Maps 🌎](https://github.com/JadnaSantos/sistema-local-maps) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Reactjs +Styled-Components + Jest
   | [Sistema de Pedidos 👩🏾‍🍳](https://github.com/JadnaSantos/sistema-de-pedidos) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Next.JS + SASS
-  | [Car Rent 🚗](https://github.com/JadnaSantos/car-rent) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Reactjs +Styled-Components + Jest
  
 </details> 
 
@@ -55,6 +54,7 @@ Eu sou a Jadna Silva trabalho com desenvolvedora Front-End 🚀
   
   | Nome do Projeto | Linguagens |
   |------|-------|
+  | [Car Rent 🚗](https://github.com/JadnaSantos/car-rent) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Jest
   | [Login System 🥇](https://github.com/JadnaSantos/loginSystem) |Node + Expres + Prisma 
   | [Testing🧪](https://github.com/JadnaSantos/javascript-testing) | Node + Stubs + Sinon + Spies
   | [Api-vendas 🛒](https://github.com/JadnaSantos/api-vendas) | Node + TyORM + Express
