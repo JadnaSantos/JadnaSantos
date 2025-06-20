@@ -106,7 +106,7 @@ Eu sou a Jadna Silva e atualmente trabalho com desenvolvedora Front-End na Stone
   | [React-Hooks 📕](https://github.com/JadnaSantos/reactHooks) | React + React Hooks
   | [Docker 🐳](https://github.com/JadnaSantos/docker) | Docker | MySQl | Node | ReactJs
   | [Git 📫](https://github.com/JadnaSantos/gitEssencial) | GIT 
-  
+  | [Cypress🧪](https://github.com/JadnaSantos/cypress) | Cypress
   
 </details>  
 
