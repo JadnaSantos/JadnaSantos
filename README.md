@@ -55,7 +55,7 @@ Eu sou a Jadna Silva e atualmente trabalho com desenvolvedora Front-End.
   
   | Nome do Projeto | Linguagens |
   |------|-------|
-  | [Guessing Game 🎮](https://github.com/JadnaSantos/guessing-game) Go
+  | [Guessing Game 🎮](https://github.com/JadnaSantos/guessing-game) | Go
   
 </details>  
 
