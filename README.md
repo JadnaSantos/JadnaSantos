@@ -113,6 +113,7 @@ Eu sou a Jadna Silva e atualmente trabalho com desenvolvedora Front-End.
   
   | Nome do Projeto | Linguagens |
   |------|-------|
+  | [Go](https://github.com/JadnaSantos/Go) | Go
   | [React-Hooks 📕](https://github.com/JadnaSantos/reactHooks) | React + React Hooks
   | [Docker 🐳](https://github.com/JadnaSantos/docker) | Docker | MySQl | Node | ReactJs
   | [Git 📫](https://github.com/JadnaSantos/gitEssencial) | GIT 
