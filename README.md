@@ -4,7 +4,6 @@ Eu sou a Jadna Silva e atualmente trabalho com desenvolvedora Front-End.
 
 - ✨ Estou sempre aprendendo mais sobre JavaScript, ReactJs, React Native, NodeJs e Go;
 - 🎮 Adoro games (mas sou muito ruim em todos);
-- 📚 Tenho estudado desenvolvimento Front-End e principalmente Algoritmos e Estrutura de Dados.
 
 
 <div id="badges">
@@ -57,6 +56,7 @@ Eu sou a Jadna Silva e atualmente trabalho com desenvolvedora Front-End.
   |------|-------|
   | [Guessing Game 🎮](https://github.com/JadnaSantos/guessing-game) | Go
   | [Encurtador de URL](https://github.com/JadnaSantos/encurtador_url) | Go + chi
+  | [OMDB - Search Movie](https://github.com/JadnaSantos/omdb-movie-search-api-go) | Go + chi
   
 </details>  
 
