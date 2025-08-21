@@ -54,9 +54,10 @@ Eu sou a Jadna Silva e atualmente trabalho com desenvolvedora Front-End.
   
   | Nome do Projeto | Linguagens |
   |------|-------|
+  | [Gobid](https://github.com/JadnaSantos/Gobid) | Go 
   | [Guessing Game 🎮](https://github.com/JadnaSantos/guessing-game) | Go
-  | [Encurtador de URL](https://github.com/JadnaSantos/encurtador_url) | Go + chi
-  | [OMDB - Search Movie](https://github.com/JadnaSantos/omdb-movie-search-api-go) | Go + chi
+  | [Encurtador de URL](https://github.com/JadnaSantos/encurtador_url) | Go 
+  | [OMDB - Search Movie](https://github.com/JadnaSantos/omdb-movie-search-api-go) | Go 
   
 </details>  
 
