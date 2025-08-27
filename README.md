@@ -1,6 +1,6 @@
 ## Hi there 🖐🏾!
 
-Eu sou a Jadna Silva e atualmente trabalho com desenvolvedora Front-End.
+Eu sou a Jadna Silva
 
 - ✨ Estou sempre aprendendo mais sobre JavaScript, ReactJs, React Native, NodeJs e Go;
 - 🎮 Adoro games (mas sou muito ruim em todos);
