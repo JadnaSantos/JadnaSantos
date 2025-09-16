@@ -111,7 +111,7 @@ Eu sou a Jadna Silva
 </details>  
 
 <details open>
-  <summary><h3>Just for Study</h3></summary>
+  <summary><h3>Estudos</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
@@ -120,6 +120,10 @@ Eu sou a Jadna Silva
   | [Docker 🐳](https://github.com/JadnaSantos/docker) | Docker | MySQl | Node | ReactJs
   | [Git 📫](https://github.com/JadnaSantos/gitEssencial) | GIT 
   | [Cypress🧪](https://github.com/JadnaSantos/cypress) | Cypress
+  | [AWS - CloudFormation](https://github.com/JadnaSantos/Desafio-aws-cloudformation) | AWS
+  | [AWS - Step-functions](https://github.com/JadnaSantos/Desafio-AWS-Step-Functions) | AWS
+  | [AWS - Introdução](https://github.com/JadnaSantos/aws-bootcamp-journey) | AWS
+  | [AWS - Lambda](https://github.com/JadnaSantos/upload-file.zip) | AWS
   
 </details>  
 
