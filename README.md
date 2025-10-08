@@ -124,6 +124,7 @@ Eu sou a Jadna Silva
   | [AWS - Step-functions](https://github.com/JadnaSantos/Desafio-AWS-Step-Functions) | AWS
   | [AWS - Introdução](https://github.com/JadnaSantos/aws-bootcamp-journey) | AWS
   | [AWS - Lambda](https://github.com/JadnaSantos/upload-file.zip) | AWS
+  | [Terraform - AWS](https://github.com/JadnaSantos/terraform-studies) | Terraform + AWS Lambda + Go
   
 </details>  
 
