@@ -27,6 +27,7 @@ Eu sou a Jadna Silva
   
   | Nome do Projeto | Linguagens |
   |------|-------|
+  | [Gerador de Dieta](https://github.com/JadnaSantos/gerador-de-dieta) | Angular16 | SCSS | Node.js | Fastify
   | [Doutor Agenda](https://github.com/JadnaSantos/dr.agenda)| Next.js 15 + TailwindCSS 4 + Drizzle ORM + PostgresSql + Better Auth + React Hook Form + Zod + React Query + Stripe +  React Day Picker + Lucide + Cypress
   | [Local-Maps 🌎](https://github.com/JadnaSantos/sistema-local-maps) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Reactjs +Styled-Components + Jest
   | [Sistema de Pedidos 👩🏾‍🍳](https://github.com/JadnaSantos/sistema-de-pedidos) | Node.js + Typescript + Express + Prisma + PostgresSql + Docker + Next.JS + SASS
