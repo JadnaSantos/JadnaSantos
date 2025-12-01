@@ -34,20 +34,29 @@ Eu sou a Jadna Silva
  
 </details> 
 
+
 <details open>
-  <summary><h3>React </h3></summary>
+  <summary><h3>JavaScript</h3></summary>
   
   | Nome do Projeto | Linguagens |
   |------|-------|
-  | [App-Movie 🎞](https://github.com/JadnaSantos/app-theMovie) | React + Typescript + Styled-Components
-  | [Dt-money 💸](https://github.com/JadnaSantos/dt-Money) | React + Typescript + Styled-Components
-  | [Coffe-Delivery ☕](https://github.com/JadnaSantos/coffee-delivery) | React + Redux + Typescript + Styled-Components
-  | [GitHub-Blog 👨🏾‍💻](https://github.com/JadnaSantos/modulo3-githublog) | React + Typescript + Styled-Components
-  | [Todo-List ✅](https://github.com/JadnaSantos/todoList) | React + Typescript + Styled-Components
-  | [Time ⏲](https://github.com/JadnaSantos/timeIgnite) | React + Typescript + Styled-Components
-  | [Ignite-Feed 🎟](https://github.com/JadnaSantos/igniteFeed) | React + Typescript + Styled-Components
+  | [Quiz 🔎](https://github.com/JadnaSantos/QuizApp) | JavaScript
+  | [Calculadora IMC 📲](https://github.com/JadnaSantos/CalculateImc) | JavaScript
+  | [Password Gerator 👨🏾‍💻](https://github.com/JadnaSantos/Password-Gerator) | JavaScript
+  | [Count Down Time ⏲](https://github.com/JadnaSantos/CountDownTime-) | JavaScript
+  | [Form Validator 📃](https://github.com/JadnaSantos/form-validator) | JavaScript
+
+</details>
+
+
+<details open>
+  <summary><h3>Java</h3></summary>
   
-</details>  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [Quiz 🔎]([https://github.com/JadnaSantos/QuizApp](https://github.com/JadnaSantos/bank_account)) | Java
+
+</details>
 
 
 <details open>
@@ -62,7 +71,6 @@ Eu sou a Jadna Silva
   
 </details>  
 
-
 <details open>
   <summary><h3>Node</h3></summary>
   
@@ -76,19 +84,7 @@ Eu sou a Jadna Silva
   | [NG-Cash 💸](https://github.com/JadnaSantos/ng-cash) | Node + Express + Prisma + Typescript + Jest 
   
 </details>  
-
-<details open>
-  <summary><h3>JavaScript</h3></summary>
   
-  | Nome do Projeto | Linguagens |
-  |------|-------|
-  | [Quiz 🔎](https://github.com/JadnaSantos/QuizApp) | JavaScript
-  | [Calculadora IMC 📲](https://github.com/JadnaSantos/CalculateImc) | JavaScript
-  | [Password Gerator 👨🏾‍💻](https://github.com/JadnaSantos/Password-Gerator) | JavaScript
-  | [Count Down Time ⏲](https://github.com/JadnaSantos/CountDownTime-) | JavaScript
-  | [Form Validator 📃](https://github.com/JadnaSantos/form-validator) | JavaScript
-
-</details>  
 
 <details open>
   <summary><h3>Python</h3></summary>
@@ -110,6 +106,22 @@ Eu sou a Jadna Silva
   | [JavaScript Algorithms and Data Structures 🎲](https://github.com/JadnaSantos/JavaScript-Algorithms-and-Data-Structures) | HTML + CSS + JavaScript
   
 </details>  
+
+<details open>
+  <summary><h3>React </h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [App-Movie 🎞](https://github.com/JadnaSantos/app-theMovie) | React + Typescript + Styled-Components
+  | [Dt-money 💸](https://github.com/JadnaSantos/dt-Money) | React + Typescript + Styled-Components
+  | [Coffe-Delivery ☕](https://github.com/JadnaSantos/coffee-delivery) | React + Redux + Typescript + Styled-Components
+  | [GitHub-Blog 👨🏾‍💻](https://github.com/JadnaSantos/modulo3-githublog) | React + Typescript + Styled-Components
+  | [Todo-List ✅](https://github.com/JadnaSantos/todoList) | React + Typescript + Styled-Components
+  | [Time ⏲](https://github.com/JadnaSantos/timeIgnite) | React + Typescript + Styled-Components
+  | [Ignite-Feed 🎟](https://github.com/JadnaSantos/igniteFeed) | React + Typescript + Styled-Components
+  
+</details>  
+
 
 <details open>
   <summary><h3>Estudos</h3></summary>
