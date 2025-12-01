@@ -54,7 +54,7 @@ Eu sou a Jadna Silva
   
   | Nome do Projeto | Linguagens |
   |------|-------|
-  | [Quiz 🔎]([https://github.com/JadnaSantos/QuizApp](https://github.com/JadnaSantos/bank_account)) | Java
+  | [Sistema Bancário – Prática de POO em Java 💳]([https://github.com/JadnaSantos/QuizApp](https://github.com/JadnaSantos/bank_account)) | Java
 
 </details>
 
