@@ -139,6 +139,7 @@ Eu sou a Jadna Silva
   | [AWS - Introdução](https://github.com/JadnaSantos/aws-bootcamp-journey) | AWS
   | [AWS - Lambda](https://github.com/JadnaSantos/upload-file.zip) | AWS
   | [Terraform - AWS](https://github.com/JadnaSantos/terraform-studies) | Terraform + AWS Lambda + Go
+  | [Programação orientada a objetos](https://github.com/JadnaSantos/POO) | Java
   
 </details>  
 
